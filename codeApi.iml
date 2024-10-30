@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mongodb-jdbc-2.2.0-all" level="project" />
+    <orderEntry type="library" name="slf4j-simple-2.1.0-alpha1-javadoc" level="project" />
   </component>
 </module>
